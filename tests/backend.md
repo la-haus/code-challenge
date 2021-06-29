@@ -249,7 +249,7 @@ Usando las siguientes estructuras de `Request`, `Body` y `Response` permita las 
 _Request_:
 
 ```
-POST v1/users/{id}
+POST v1/users/
 ```
 
 _Body_:
